@@ -7,7 +7,7 @@ I'm going to put the file name and what this python code does.
 
 borrar_duplicados.py: This code erase a duplicated value in a list.
 
-#condicionales.py: By entering the age of a person, it will tell us if the person falls into a category.
+condicionales.py: By entering the age of a person, it will tell us if the person falls into a category.
 
 diccionario.py: This is an example of searching for values in a nested dict.
 
